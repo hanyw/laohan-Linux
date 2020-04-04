@@ -7,10 +7,8 @@
 《跟老韩学Linux运维》已出版。
 <br>
 
->京东链接如下。
-https://item.jd.com/12456795.html?dist=jd
-当当链接如下。
-http://product.dangdang.com/25581114.html
+>京东链接https://item.jd.com/12456795.html?dist=jd
+当当链接http://product.dangdang.com/25581114.html
 《跟老韩学Linux架构师》系列图书目前修订中。
 《跟老韩学Linux自动化运维》系列图书目前修订中。
 《跟老韩学Web前端快速入门》系列图书目前修订中。 
